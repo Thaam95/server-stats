@@ -5,3 +5,5 @@ Bash script to print key server performance stats.
 - Memory usage (free/used with %)
 - Disk usage per mount + totals
 - Top 5 processes by CPU & memory
+
+**https://roadmap.sh/projects/server-stats**
